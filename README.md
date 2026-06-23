@@ -121,13 +121,13 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:anshikanagvanshi972@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
-<a href="https://github.com/yourusername">
+<a href="https://github.com/anshika0606">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/anshika-nagbanshi-75193827b/">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 </p>
